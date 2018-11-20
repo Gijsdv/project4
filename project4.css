@@ -1,13 +1,24 @@
 body{
+	margin: 0;
+	padding: 0;
 	background-color:white;
 	font-family: 'Ubuntu', sans-serif;
 }
-article{
 
+article{
+align-content:center;
 	background-color:#89CFF0;
+	width: 1000px;
+	text-align: center;
 }
 h1{
 	text-align: center;
 }
-nav
+img{
+	margin: auto;
+	width: 100%;
+}
+footer{
+	text-align: center;
+	background-color: #6CB4EE;
 }
