@@ -4,9 +4,26 @@ body{
 	background-color:white;
 	font-family: 'Ubuntu', sans-serif;
 }
-
+/*style the navigation menu */
+.navbar {
+	width: 100%;
+	background-color:#89CFF0;
+	overflow: auto;
+}
+/*navigation links */
+.navbar a{
+	float: left;
+	padding: 12px;
+	color: white;
+	text-decoration: none;
+	font-size: 17px;
+	width:18%;
+}
+.navbar a:hover{
+	background-color:#6CB4EE
+}
 article{
-align-content:center;
+
 	background-color:#89CFF0;
 	width: 1000px;
 	text-align: center;
