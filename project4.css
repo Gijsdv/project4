@@ -54,6 +54,6 @@ footer{
 .rondehoeken{ 
 border-radius: 20px 20px 20px 20px;
  }
- .centreren{
+ article.centreren{
  	text-align: center;
  }
