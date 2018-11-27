@@ -83,4 +83,14 @@ border-radius: 20px 20px 20px 20px;
 }
 .WIT{
 color: white;
+}
+.koop a{
+	color: white;
+	text-decoration: none;
 } 
+.koop a:hover{
+	background-color:white;
+	color: #6CB4EE
+	}
+.P img{max-height: 100px;
+max-width:100px;}
