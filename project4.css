@@ -99,9 +99,16 @@ article.ruim {
 }
 img.P{
 	margin-top: 10px;
-	max-height: 100px;
+	height: 100px;
 	max-width:100px;
 }
+img.PP{
+	margin-top: 10px;
+	height: 100px;
+	max-width:200px;
+	margin-right:-92px;
+}
+
 img.C{
 	margin-top: -70px;
 	float: right;
@@ -142,4 +149,22 @@ div.Tweet{float: right;
   margin: 5px 2px;
   border-radius: 50%;
   float: right;
+}
+.float{
+	float: right;
+	width: 500px;
+	height: 400px;
+	margin-left:-500px;
+	margin-top: -100px;
+}
+.fload{
+	float: right;
+	width: 400px;
+	height: 300px;
+	margin-left:-500px;
+	margin-top: -90px;
+}
+.CON{
+	max-width:400px;
+	max-height:500px;
 }
