@@ -5,28 +5,55 @@ body{
 	font-family: 'Ubuntu', sans-serif;
 	color:white;
 }
+.topnav{
+	overflow: hidden;
+	background-color: #89CFF0;	
+}
+.topnav a{
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	width:14%;
+}
+.topnav a:hover{
+	background-color:#6CB4EE
+}
+
 /*style the navigation menu */
 .navbar {
 	width: 100%;
 	background-color:#89CFF0;
 	overflow: auto;}
-/*navigation links */
-.navbar a{
-	float: left;
-	padding: 12px;
-	color: white;
-	text-decoration: none;
-	font-size: 17px;
-	width:17%;
-	max-height: 100px;
-	min-width:100px;
-}
-.navbar a:hover{
-	background-color:#6CB4EE
-}
 .active{
 	background-color:#6CB4EE
 }
+.topnav .icon{
+	display: none;
+}
+@media screen and (max-width: 600px) {
+	.topnav a:not(:first-child) {display: none;}
+	.topnav a.icon{
+		float: right;
+		display: block;
+	}
+
+}
+@media screen and (max-width: 600px) {
+.topnav.responsive{position: relative;}
+.topnav.responsive .icon {
+	position: absolute;
+	right: 0;
+	left: 0;
+	}
+}
+
+
+
+
 
 article{
 
@@ -123,7 +150,11 @@ img.H{
 	height: 90px;
 
 }
-div.Tweet{float: right;
+div.Tweet{
+	margin:auto;
+	width:100px;
+	width: 50%;
+	padding: 10px;
 }
 .fa:hover {
 	opacity: 0.7;
@@ -148,7 +179,7 @@ div.Tweet{float: right;
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 50%;
-  float: right;
+  float:right;
 }
 .float{
 	float: right;
