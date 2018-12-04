@@ -37,7 +37,7 @@ body{
   display: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 790px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -45,7 +45,7 @@ body{
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 790px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -198,4 +198,15 @@ div.Tweet{
 	max-height:500px;
 }
 
-
+img.P{
+	margin-top: 10px;
+	height: 100px;
+	max-height: 100px;
+	max-width:100px;
+}
+img.PP{
+	margin-top: 10px;
+	height: 100px;
+	max-width:200px;
+	margin-right:-92px;
+}
