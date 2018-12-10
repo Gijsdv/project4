@@ -12,32 +12,31 @@ article{
 
 	background-color:#89CFF0;
 	width:100%;
-	
+	max-width:790px;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	display:block;
 
 }
 h1{
 	text-align: center;
 	color: #6CB4EE;
+	width:100%;
 }
 h2{ 
 	text-align: center;
 	color: #6CB4EE;
+	width:100%;
 
 }
 
 img{
 	margin: auto;
 	width: 100%;
+	display:block;
 }
-footer{
-	text-align: center;
-	background-color: #6CB4EE;
-	padding-top:10px;
-	padding-bottom:10px; 
+
 }
- }
  .centreren{
  	text-align: center;
  }
@@ -47,10 +46,12 @@ footer{
  	display: block;
     margin-left: auto;
     margin-right: auto;
+    width:100%;
 
  }
  form{
  color:#89CFF0;
+ width:100%;
 }
 .contactContainer{
 	margin: 0px auto;
@@ -79,37 +80,23 @@ img.P{
 }
 img.C{
 	margin-top: -70px;
-	
-	width: 90px;
-	height: 90px;
+	width:100%
+	max-width: 90px;
+	max-height: 90px;
 
 
 }
 img.H{
+	float: right;
 	margin-top: -110px;
-	
-	width: 90px;
-	height: 90px;
-	width:100%
+	max-width: 90px;
+	max-height: 90px;
+	width:100%;
+	display:block;
 }
-.float{
-	float: right;
-	width: 500px;
-	height: 400px;
-	margin-left:-500px;
-	margin-top: -100px;
-}
-.fload{
-	float: right;
-	width: 400px;
-	height: 300px;
-	margin-left:-500px;
-	margin-top: -90px;
-}
-.CON{
-	max-width:400px;
-	max-height:500px;
-}
+
 img{
 	display:inline-block;
+	width:100%;
 }
+
