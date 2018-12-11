@@ -143,11 +143,7 @@ img.C{
 
 
 }
-img.H{
-	margin-top: -110px;
-	float: right;
-	width: 90px;
-	height: 90px;
+	
 
 }
 div.Tweet{
@@ -265,3 +261,18 @@ img.slides {vertical-align: middle;
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+
+div.een{
+	display: inline-block;
+	width: 60%;
+}
+div.twee{
+	display: inline-block;
+	width: 20%;
+}
+div.twee img{
+	width: 200px;
+	height: 150px;
+}
+
+
