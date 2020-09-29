@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="982b4ea9-2ec8-4baf-bf18-673de9309bcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bereken/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud/cloud1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud/cloud2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/koop/ber1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/koop/ber2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/koop/ber3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partners/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANNER.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/BANNER.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloud.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suneco.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/Suneco.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ber1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ber2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ber3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bereken.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brons.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/brons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/cloud.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foto.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/foto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geel.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/geel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goud.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/goud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groen.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/groen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/host.jpg.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/host.jpg.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosting pakketen.html" beforeDir="false" afterPath="$PROJECT_DIR$/hosting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/index.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llus_hosting.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/llus_hosting.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/content/css/mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/content/js/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nog.css" beforeDir="false" afterPath="$PROJECT_DIR$/content/css/nog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oke.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/oke.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oranje.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/oranje.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4.css" beforeDir="false" afterPath="$PROJECT_DIR$/content/css/project4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/punt.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/punt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/silver.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slid.js" beforeDir="false" afterPath="$PROJECT_DIR$/content/js/slid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/voorkant.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/images/voorkant.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iBdq9u7hknhykioc51F25Q0BYS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bereken" />
+      <recent name="$PROJECT_DIR$/cloud" />
+      <recent name="$PROJECT_DIR$/partners" />
+      <recent name="$PROJECT_DIR$/social" />
+      <recent name="$PROJECT_DIR$/contact" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="982b4ea9-2ec8-4baf-bf18-673de9309bcc" name="Default Changelist" comment="" />
+      <created>1601385106157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601385106157</updated>
+      <workItem from="1601385107198" duration="1044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="234" width="618" height="522" key="find.popup" timestamp="1601385471356">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="685" y="234" width="618" height="522" key="find.popup/0.27.1920.1009@0.27.1920.1009" timestamp="1601385471356" />
+  </component>
+</project>

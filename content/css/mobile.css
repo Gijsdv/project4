@@ -1,0 +1,125 @@
+@media screen and (max-width: 790px) {
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: white;
+        font-family: 'Ubuntu', sans-serif;
+        color: white;
+        width: 100%;
+
+    }
+
+    article {
+
+        background-color: #89CFF0;
+        width: 100%;
+        max-width: 790px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display: block;
+
+    }
+
+    h1 {
+        text-align: center;
+        color: #6CB4EE;
+        width: 100%;
+    }
+
+    h2 {
+        text-align: center;
+        color: #6CB4EE;
+        width: 100%;
+
+    }
+
+    img {
+        margin: auto;
+        width: 100%;
+        display: block;
+    }
+
+}
+
+.centreren {
+    text-align: center;
+}
+
+img.voorkant {
+    max-width: 500px;
+    max-height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+}
+
+form {
+    color: #89CFF0;
+    width: 100%;
+}
+
+.contactContainer {
+    margin: 0px auto;
+    width: 100%;
+    margin-bottom: 50px
+}
+
+.WIT {
+    color: white;
+}
+
+.koop a {
+    color: white;
+    text-decoration: none;
+}
+
+.koop a:hover {
+    background-color: white;
+    color: #6CB4EE
+}
+
+article.ruim {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+img.P {
+    margin-top: 10px;
+    max-height: 100px;
+    max-width: 100px;
+}
+
+img.C {
+    margin-top: -70px;
+    width: 100%;
+    max-width: 90px;
+    max-height: 90px;
+
+
+}
+
+img.H {
+
+}
+
+img {
+    width: 100%;
+}
+
+div.een {
+    display: inline-block;
+    width: 60%;
+}
+
+div.twee {
+    display: inline-block;
+    width: 30%;
+}
+
+
+div.twee img {
+    width: 100px;
+    height: 100px;
+}
